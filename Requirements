@@ -1,0 +1,6 @@
+Installations:-
+pip install pandas
+pip install --upgrade keras
+pip install sklearn
+
+
